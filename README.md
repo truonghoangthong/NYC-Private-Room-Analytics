@@ -34,7 +34,6 @@ I used Python to tackle the analysis, breaking it down into these steps:
 - `data/`: Holds the raw data files (`airbnb_price.csv`, `airbnb_room_type.xlsx`, `airbnb_last_review.tsv`).
 - `main.py`: My Python script for the full analysis
 - `final_result.csv`: File of Summary Results
-- `README.md`: You’re reading it! This file explains the project.
 
 ## Results
 The script outputs:
