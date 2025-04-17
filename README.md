@@ -1,7 +1,7 @@
 # NYC Private Room Cleaning + Analytics
 
 ## Project Overview
-As a consultant for a real estate start-up, I put together this project to dig into the short-term rental market in New York City using Airbnb listing data. My goal was to provide actionable insights about private room listings to help the company make smart decisions. I had a blast working with real-world data and uncovering trends that could shape their strategy!
+As a "consultant" for a real estate start-up, I put together this project to dig into the short-term rental market in New York City using Airbnb listing data. My goal was to provide actionable insights about private room listings to help the company make smart decisions. I had a blast working with real-world data and uncovering trends that could shape their strategy!
 
 This project answers key questions:
 - When were the earliest and most recent reviews posted for these listings?
