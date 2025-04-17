@@ -19,7 +19,7 @@ The raw data lives in the `data/` folder and includes three files:
 I used Python to tackle the analysis, breaking it down into these steps:
 1. **Earliest and Most Recent Review Dates**:
    - Pulled from `airbnb_last_review.tsv` and stored as `first_reviewed` and `last_reviewed`.
-   - Had to clean up some messy date formats, which was a fun challenge!
+   - Had to clean up some messy date formats!
 2. **Count of Private Room Listings**:
    - Filtered `airbnb_room_type.xlsx` to count private room listings.
    - Saved the result in `nb_private_rooms`.
