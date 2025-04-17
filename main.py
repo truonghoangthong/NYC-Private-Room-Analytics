@@ -55,4 +55,4 @@ print (average_listing_price)
 ################################
 review_dates=pd.DataFrame({'first_reviewed':earliest_date,'last_reviewed':recent_date,'nb_private_rooms':private_room,'avg_price':average_listing_price}, index=[0])
 print (review_dates)
-review_dates.to_csv("review_dates.csv", index=False)
+review_dates.to_csv("final_result.csv", index=False)
